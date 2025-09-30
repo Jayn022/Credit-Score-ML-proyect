@@ -1,0 +1,25 @@
+# Git Credit score mini proyect
+
+Este proyecto fue desarrollado con el objetivo de demostrar la implementación de un modelo de Machine Learning para la evaluación de scores crediticios.
+
+## Autoría
+
+Todo el código de este proyecto ha sido desarrollado exclusivamente por mí persona, sin colaboración externa. La creacion de estos datos fueron a traves de datos reales ***ESTOS DATOS SON DATOS FICTICIOS***,el entrenamiento y evaluación del modelo, cada paso ha sido llevado a cabo de forma individual
+a partir de varias pruebas realizadas para la comprension de los datos.
+
+##Datos utilizados
+
+Los datos utilizados en este proyecto son **datos sintéticos generados a partir de un proceso de balanceo de datos**, por medio del uso de SMOGN, fueron basados en características estadísticas de un conjunto de datos reales.
+
+> **Importante**: 
+> Los datos reales originales **no están incluidos** en este repositorio.  
+> Los datos sintéticos presentes tienen como único propósito demostrar el funcionamiento del modelo y su pipeline.
+
+## ⚙️ Estructura del proyecto
+
+- `Prueba nt - copia.ipynb`: Notebook principal con la implementación del modelo.
+- `datos_sinteticos.csv`: Conjunto de datos sintéticos utilizado.
+- `Iterations_max(elbow).py`: Script auxiliar para determinar el número óptimo de clusters.
+
+## 🧠 Tecnologías utilizadas
+- Vea las librerias utilizadas dentro del proyecto
